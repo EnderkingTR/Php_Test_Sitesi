@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(255, 245, 245);
+    font-family: 'Times New Roman', Times, serif;
+    /*background-image: url("gallery/wallpaper.jpg");*/
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}

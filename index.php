@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html>
-
+<link rel="stylesheet" href="style.css">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <link rel="icon" type="image/png" href="resimler/logo.png">
+    <link rel="icon" type="image/png" href="gallery/logo.png">
 </head>
 <body>
 
